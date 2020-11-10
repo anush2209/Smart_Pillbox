@@ -1,1 +1,1 @@
-# smart-pillbox
+# Smart Pillbox Prototype
